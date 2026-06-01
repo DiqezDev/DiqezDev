@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Diqez (DiqezDev Solutions) 👋
 
-<!--
-**DiqezDev/DiqezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi negocio
+Soy un desarrollador de software basado en **Bogotá, Colombia**, enfocado en la creación de soluciones tecnológicas personalizadas y automatización de procesos para empresas.
 
-Here are some ideas to get you started:
+## Áreas de Especialización
+* **Automatización de Negocios**: Implementación de bots de WhatsApp integrados con Google Sheets para gestión de inventarios y pagos.
+* **Desarrollo de Videojuegos**: Creación de infraestructura y plugins personalizados en Java para servidores (ZenithPerms, AtlasCoins).
+* **Desarrollo Web**: Programación de paneles administrativos dinámicos y plataformas de e-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
+* **WhatsApp Business Bot**: Herramienta de gestión interna para DiqezDev Solutions que permite consultar y actualizar estados de cuentas en tiempo real.
+* **Sistemas de Economía**: Desarrollo de lógica compleja para sistemas de permisos y rangos en entornos de servidor.
+
+## Contacto Profesional
+* **Ubicación**: Bogotá, Colombia.
+* **Empresa**: DiqezDev Solutions.
+* **GitHub**: DiqezDev.
